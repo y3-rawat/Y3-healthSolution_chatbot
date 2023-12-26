@@ -151,7 +151,7 @@ body.light-mode .video-bg:before {
   height: 58px;
   width: 100%;
   border-bottom: 1px solid var(--border-color);
-  padding: 0 70px;
+  padding: 0 30px;
   white-space: nowrap;
 }
 @media screen and (max-width: 480px) {
